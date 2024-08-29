@@ -1,4 +1,4 @@
-### The paper contains two complementary studies.
+### The paper contains two complementary studies:
 
 * #### In [Study 1](https://github.com/jpaulodiniz/2023ISSRE/tree/main/Study1), we investigate whether one of the SS2OMs' constituent FOMs is reaching the other.
 
