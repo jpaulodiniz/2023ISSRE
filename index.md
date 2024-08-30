@@ -6,7 +6,7 @@
 
 
 ## Reference
-- Diniz, João Paulo; Wong, Chu-Pan, Kästner, Christian; Figueiredo, Eduardo; 2021. <i>Dissecting Strongly Subsuming Second-Order Mutants.</i> Proceedings of the 14th IEEE International Conference on Software Testing, Verification and Validation (ICST). [Link](https://ieeexplore.ieee.org/abstract/document/9438587){:target="_blank" rel="noopener"}
+- Diniz, João Paulo; Wong, Chu-Pan; Kästner, Christian; Figueiredo, Eduardo; 2021. <i>Dissecting Strongly Subsuming Second-Order Mutants.</i> Proceedings of the 14th IEEE International Conference on Software Testing, Verification and Validation (ICST). [Link](https://ieeexplore.ieee.org/abstract/document/9438587){:target="_blank" rel="noopener"}
 
 
 ## Contact
